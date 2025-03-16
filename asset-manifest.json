@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sgs/static/css/main.478d9a8f.css",
+    "main.js": "/sgs/static/js/main.3ac1b8d1.js",
+    "static/js/488.dd5d7916.chunk.js": "/sgs/static/js/488.dd5d7916.chunk.js",
+    "static/media/batmancarro.png": "/sgs/static/media/batmancarro.3cd256bb3f33cbb1f7e4.png",
+    "static/media/imagem-login.png": "/sgs/static/media/imagem-login.259925c532b75fe21f72.png",
+    "index.html": "/sgs/index.html",
+    "main.478d9a8f.css.map": "/sgs/static/css/main.478d9a8f.css.map",
+    "main.3ac1b8d1.js.map": "/sgs/static/js/main.3ac1b8d1.js.map",
+    "488.dd5d7916.chunk.js.map": "/sgs/static/js/488.dd5d7916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478d9a8f.css",
+    "static/js/main.3ac1b8d1.js"
+  ]
+}
